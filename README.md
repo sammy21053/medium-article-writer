@@ -1,4 +1,8 @@
 # medium-article-writer
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)]
+[![Status](https://img.shields.io/badge/status-active-green.svg)]
+
 A Python-based AI article generator using Google's Gemini API.
 
 🧰 Features
